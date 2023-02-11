@@ -3,7 +3,7 @@
 led_write="/root/led_write.sh"
 interval="0.5"
 
-colors=( 0000ff 660099 ff0000 ff9900 ffff00 00cc00 3300cc cc0066 ff6600 ffa500 99cc00 0099cc )
+colors=( 0000ff ff00ff ff0000 ff9900 ffff00 00ff00 9900ff ff0099 ff6600 ffa500 99ff00 009999 )
 
 
 while [ 1 ]
