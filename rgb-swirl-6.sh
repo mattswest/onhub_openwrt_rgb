@@ -18,7 +18,7 @@ do
 
         sleep $interval
 
-	$led_write 0 ${colors[1]}	#Switch back to primary and shift position
+	$led_write 0 ${colors[1]}	#Shift position
         $led_write 1 ${colors[2]}
         $led_write 2 ${colors[3]}
         $led_write 3 ${colors[4]}
@@ -36,7 +36,7 @@ do
 
         sleep $interval
 
-	$led_write 0 ${colors[3]}	#7
+	$led_write 0 ${colors[3]}	#4
         $led_write 1 ${colors[4]}
         $led_write 2 ${colors[5]}
         $led_write 3 ${colors[0]}
@@ -45,7 +45,7 @@ do
 
         sleep $interval
 
-	$led_write 0 ${colors[4]}	#9
+	$led_write 0 ${colors[4]}	#5
         $led_write 1 ${colors[5]}
         $led_write 2 ${colors[0]}
         $led_write 3 ${colors[1]}
@@ -54,7 +54,7 @@ do
 
         sleep $interval
 
-	$led_write 0 ${colors[5]}	#11
+	$led_write 0 ${colors[5]}	#6
         $led_write 1 ${colors[0]}
         $led_write 2 ${colors[1]}
         $led_write 3 ${colors[2]}
