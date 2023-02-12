@@ -24,3 +24,5 @@ There are three example program scripts. You will need to edit the line for the 
 ```rgb-swirl-6.sh``` 6-color rainbow swirl around the ring
 
 ```rgb-shift.sh``` colors shift from one to the next
+
+![image](https://user-images.githubusercontent.com/6741186/218293752-8e1d6507-a2ea-4e8f-b187-f06af92b94b7.png)
