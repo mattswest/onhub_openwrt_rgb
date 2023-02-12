@@ -17,8 +17,10 @@ ex. ```./led_write.sh 0 ff00ff```
 The example program scripts require ```coreutils-sleep``` for the interval timing. 
 The ```sleep``` provided by the ```busybox``` install only supports integer values.
 
-There are two example program scripts. You will need to edit the line for the helper script if it's stored somewhere other than ```/root```:
+There are three example program scripts. You will need to edit the line for the helper script if it's stored somewhere other than ```/root```:
 
-```rgb-swirl.sh``` colors swirl around the ring
+```rgb-swirl-12.sh``` 12-color rainbow swirl around the ring
+
+```rgb-swirl-6.sh``` 6-color rainbow swirl around the ring
 
 ```rgb-shift.sh``` colors shift from one to the next
