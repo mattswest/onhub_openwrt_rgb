@@ -1,7 +1,7 @@
 ## RGB scripts for the TP-Link OnHub device running OpenWrt.
 
 
-Just some simple scripts for some basic RGB effects using the device's built-in LED ring.
+Just some simple scripts for some basic RGB effects using the device's built-in LED ring. I don't know if these will work on the Asus model since I don't own one.
 
 Consists of a helper script and some example program scripts.
 
